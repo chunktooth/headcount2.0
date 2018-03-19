@@ -9,7 +9,7 @@ const ComparisonCard = ({comparedAverage}) => {
     <article className="comparison-card">
       <header>
         <h2 className="comparison__h2">{locationNameA}</h2>
-        <h4 className="percent">{comparedAverage[locationNameA]}%</h4>
+        <h4 className="percent">{(comparedAverage[locationNameA] * 100).toFixed(0)}%</h4>
       </header>
       <main>
         <h3 className="comparedAverage__text">Compared Averages: </h3>
@@ -17,7 +17,7 @@ const ComparisonCard = ({comparedAverage}) => {
       </main>
       <footer>
         <h2 className="comparison__h2">{locationNameB}</h2>
-        <h4 className="percent">{comparedAverage[locationNameB]}%</h4>
+        <h4 className="percent">{(comparedAverage[locationNameB] * 100).toFixed(0)}%</h4>
       </footer>
     </article>
   );
