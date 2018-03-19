@@ -35,7 +35,7 @@ ShallowWrapper {
           <h4
                     className="percent"
           >
-                    0.34
+                    34
                     %
           </h4>
 </header>,
@@ -62,7 +62,7 @@ ShallowWrapper {
           <h4
                     className="percent"
           >
-                    0.45
+                    45
                     %
           </h4>
 </footer>,
@@ -85,7 +85,7 @@ ShallowWrapper {
             <h4
               className="percent"
 >
-              0.34
+              34
               %
 </h4>,
           ],
@@ -110,14 +110,14 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "children": Array [
-                0.34,
+                "34",
                 "%",
               ],
               "className": "percent",
             },
             "ref": null,
             "rendered": Array [
-              0.34,
+              "34",
               "%",
             ],
             "type": "h4",
@@ -196,7 +196,7 @@ ShallowWrapper {
             <h4
               className="percent"
 >
-              0.45
+              45
               %
 </h4>,
           ],
@@ -221,14 +221,14 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "children": Array [
-                0.45,
+                "45",
                 "%",
               ],
               "className": "percent",
             },
             "ref": null,
             "rendered": Array [
-              0.45,
+              "45",
               "%",
             ],
             "type": "h4",
@@ -255,7 +255,7 @@ ShallowWrapper {
             <h4
                         className="percent"
             >
-                        0.34
+                        34
                         %
             </h4>
 </header>,
@@ -282,7 +282,7 @@ ShallowWrapper {
             <h4
                         className="percent"
             >
-                        0.45
+                        45
                         %
             </h4>
 </footer>,
@@ -305,7 +305,7 @@ ShallowWrapper {
               <h4
                 className="percent"
 >
-                0.34
+                34
                 %
 </h4>,
             ],
@@ -330,14 +330,14 @@ ShallowWrapper {
               "nodeType": "host",
               "props": Object {
                 "children": Array [
-                  0.34,
+                  "34",
                   "%",
                 ],
                 "className": "percent",
               },
               "ref": null,
               "rendered": Array [
-                0.34,
+                "34",
                 "%",
               ],
               "type": "h4",
@@ -416,7 +416,7 @@ ShallowWrapper {
               <h4
                 className="percent"
 >
-                0.45
+                45
                 %
 </h4>,
             ],
@@ -441,14 +441,14 @@ ShallowWrapper {
               "nodeType": "host",
               "props": Object {
                 "children": Array [
-                  0.45,
+                  "45",
                   "%",
                 ],
                 "className": "percent",
               },
               "ref": null,
               "rendered": Array [
-                0.45,
+                "45",
                 "%",
               ],
               "type": "h4",

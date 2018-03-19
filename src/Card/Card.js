@@ -13,7 +13,7 @@ const Card = ({ location, stats, selectLocation, selectedLocations, id }) => {
   const dataPoints = Object.keys(stats).map((timeFrame, index) => {
     return (
       <li key={index} className={stats[timeFrame] < 0.5 ? 'red' : ''}>
-        {timeFrame}: {Math.round(stats[timeFrame] * 100) / 100} %
+        {timeFrame}: {Math.round(stats[timeFrame] * 100)} %
       </li>
     );
   });    
